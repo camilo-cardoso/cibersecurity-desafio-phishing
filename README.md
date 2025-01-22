@@ -38,12 +38,13 @@ Obtendo o endereço da máquina: ifconfig
 
 ## 🚧 PRINT DEMOSTRATIVO
 
-![0](cibersecurity-desafio-phishing/Print.png)
+
+![Alt text](./Print.png "Optional title")
 
 
 
 ## 🚧 VIDEO DEMOSTRATIVO
 
-![1](cibersecurity-desafio-phishing/Teste-ciber.mp4)
 
+![Alt text](./Teste-ciber.mp4 "Optional title")
 
